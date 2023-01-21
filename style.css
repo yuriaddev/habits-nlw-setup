@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: rgb(13, 13, 29);
+  background-color: #09090a;
   color: white;
   height: 100vh;
 }
@@ -19,7 +19,7 @@ header {
 
   position: fixed;
   width: 100%;
-  background-color: transparent;
+  background-color: #09090a;
 }
 button {
   padding: 16px 24px;
@@ -93,7 +93,7 @@ input {
   border: 2px solid #27272a;
   border-radius: 8px;
 
-  background: transparent;
+  background: #18181b;
 }
 /*pseudo-selector*/
 input:checked {
